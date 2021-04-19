@@ -10,6 +10,18 @@ This is modelling of a micro reddit app from the odin project: https://www.theod
 
 - Ruby on Rails
 
+## Set up this projecect locally
+- Install the following:
+1. Ruby
+2. Yarn
+3. Rails
+4. Node.js
+
+- Clone this repository by copying the link after clicking the "code" button above
+- Run "bundle Install" in your computer terminal to install required gems
+- Run "rails console" to open the rails console
+- You can now create new users, posts or comments. Example: Run "User.create(username: "John", email: "john@gmail.com")
+
 ## Authors
 
 👤 **Ilie Babcenco**
