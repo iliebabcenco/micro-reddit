@@ -1,24 +1,37 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Blog Project
 
-Things you may want to cover:
+## Description
 
-* Ruby version
+This is modelling of a micro reddit app from the odin project: https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#additional-resources . It contains the model logic for Users, Posts and comments.
 
-* System dependencies
+## Built With
 
-* Configuration
+- Ruby on Rails
 
-* Database creation
+## Authors
 
-* Database initialization
+👤 **Ilie Babcenco**
 
-* How to run the test suite
+- GitHub: [@iliebabcenco](https://github.com/iliebabcenco)
+- LinkedIn: [@iliebabcenco](https://www.linkedin.com/in/ilie-babcenco-72459a1b1/)
+- Twitter: [@iliebabcenco](https://twitter.com/BabcencoIlie)
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 **Felix Vondee**
 
-* Deployment instructions
+- GitHub: [@felixvondee](https://github.com/felix-vondee)
+- LinkedIn: [@felixvondee](https://www.linkedin.com/in/felix-vondee-b8a280202/)
+- Twitter: [@felixvondee](https://twitter.com/felix_vondee)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+If you want to contribute, you can clone this project or fork it.
+
+If you found an issue, feel free to check the [issues page](https://github.com/iliebabcenco/blog-rails-app/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
